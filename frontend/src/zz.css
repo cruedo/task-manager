@@ -1,0 +1,41 @@
+nav {
+    background-color: blanchedalmond;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-end;
+    margin: 0px;
+    height: 100%;
+}
+
+li {
+    margin: 10px;
+    list-style: none;
+    /* padding: 0px; */
+    /* border-style: solid black; */
+}
+
+body {
+    margin: 0px;
+}
+
+.nav-link {
+    text-decoration: none;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+}
+
+.abc {
+    width: fit-content;
+    margin: auto;
+    /* border: 2px solid black; */
+}
+
+label {
+    font-family: monospace;
+    font-size: larger;
+}
